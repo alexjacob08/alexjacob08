@@ -60,7 +60,7 @@
 
 <div align="center">
 
-### 🏆 Qompute 2026 · 2nd Place
+### 🏆 IBM Qompute 2026 · 2nd Place
 
 Built **LifelineQ**, a quantum optimization project exploring the allocation of limited resources to emergency shelters. Compared classical optimization, greedy approaches, and QAOA, including the effects of quantum noise.
 
